@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1692133862 source:c:\users\nperez\desktop\listas_int\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1584205420 source:c:\users\nperez\desktop\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692132787 source:c:\users\nperez\desktop\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1692132787 c:\users\nperez\desktop\listas_int\nodo.h
+
+1692133422 c:\users\nperez\desktop\listas_int\lista.h
+	"nodo.h"
+
+1714325196 source:c:\users\nico_\desktop\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714325158 c:\users\nico_\desktop\listas_int\lista.h
+	"nodo.h"
+
+1714325158 c:\users\nico_\desktop\listas_int\nodo.h
+
+1714325158 source:c:\users\nico_\desktop\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1714325167 source:c:\users\nico_\desktop\listas_int\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1715182431 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1715181946 c:\users\matut\documents\mati\sistemas\ayed\listas_void\lista.h
+	"nodo.h"
+
+1715178573 c:\users\matut\documents\mati\sistemas\ayed\listas_void\nodo.h
+
+1714325244 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1715182349 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1716346164 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1716319865 c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\lista.h
+	"nodo.h"
+
+1716311583 c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\nodo.h
+
+1716321766 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	<string.h>
+
+1714857288 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1716300171 c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\persona.h
+
+1716346156 source:c:\users\matut\documents\mati\sistemas\ayed\listas_void_funcionescallback\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1716346427 source:c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1716399840 c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\lista.h
+	"nodo.h"
+
+1716311583 c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\nodo.h
+
+1716861434 source:c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	<string.h>
+
+1716407561 c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\cola.h
+	"nodo.h"
+
+1716861068 source:c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"pila.h"
+
+1716321766 source:c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	<string.h>
+
+1716407603 c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\pila.h
+	"nodo.h"
+
+1716425833 source:c:\users\matut\documents\mati\sistemas\ayed\listas_colas_pilas\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
