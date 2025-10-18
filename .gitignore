@@ -1,0 +1,9 @@
+# Build files
+/bin/
+/obj/
+*.exe
+*.o
+
+# IDE files (Code::Blocks, etc.)
+*.layout
+*.depend
